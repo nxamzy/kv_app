@@ -1,0 +1,47 @@
+# Query: com.example.myVideoCollection
+# ContextLines: 1
+
+10 results - 3 files
+
+ios/Runner.xcodeproj/project.pbxproj:
+  480  				);
+  481: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.myVideoCollection;
+  482  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  497  				MARKETING_VERSION = 1.0;
+  498: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.myVideoCollection.RunnerTests;
+  499  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  515  				MARKETING_VERSION = 1.0;
+  516: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.myVideoCollection.RunnerTests;
+  517  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  531  				MARKETING_VERSION = 1.0;
+  532: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.myVideoCollection.RunnerTests;
+  533  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  663  				);
+  664: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.myVideoCollection;
+  665  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  686  				);
+  687: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.myVideoCollection;
+  688  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+macos/Runner/Configs/AppInfo.xcconfig:
+  10  // The application's bundle identifier
+  11: PRODUCT_BUNDLE_IDENTIFIER = com.example.myVideoCollection
+  12  
+
+macos/Runner.xcodeproj/project.pbxproj:
+  481  				MARKETING_VERSION = 1.0;
+  482: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.myVideoCollection.RunnerTests;
+  483  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  496  				MARKETING_VERSION = 1.0;
+  497: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.myVideoCollection.RunnerTests;
+  498  				PRODUCT_NAME = "$(TARGET_NAME)";
+
+  511  				MARKETING_VERSION = 1.0;
+  512: 				PRODUCT_BUNDLE_IDENTIFIER = com.example.myVideoCollection.RunnerTests;
+  513  				PRODUCT_NAME = "$(TARGET_NAME)";
